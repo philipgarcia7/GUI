@@ -47,6 +47,7 @@ class averagemaker:
 
         self.mid_frame.pack(side="top")
         self.bavg_frame.pack(side="top")
+
         self.bottom_frame.pack(side="top")
 
         self.t3_entry = tkinter.Entry(self.mid_frame, width=10)
